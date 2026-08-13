@@ -1,6 +1,4 @@
-/* ============================
-   Reset e base
-   ============================ */
+
 * {
     margin: 0;
     padding: 0;
@@ -15,9 +13,7 @@ body {
     padding: 40px 10%;
 }
 
-/* ============================
-   Tipografia
-   ============================ */
+
 h1 {
     font-size: 2.4rem;
     color: #1a202c;
@@ -70,9 +66,7 @@ mark {
     border-radius: 4px;
 }
 
-/* ============================
-   Listas
-   ============================ */
+
 ul, ol {
     padding-left: 20px;
     max-width: 680px;
@@ -93,14 +87,12 @@ li:hover {
     cursor: default;
 }
 
-/* Lista com números romanos */
+
 .romanos {
     list-style-type: upper-roman;
 }
 
-/* ============================
-   Imagens
-   ============================ */
+
 img {
     display: inline-block;
     margin: 10px;
@@ -122,9 +114,7 @@ img:hover {
     box-shadow: none;
 }
 
-/* ============================
-   Bloco de texto com imagem
-   ============================ */
+
 .texto-grande {
     line-height: 1.9;
     text-align: justify;
@@ -135,9 +125,7 @@ img:hover {
     max-width: 720px;
 }
 
-/* ============================
-   Links
-   ============================ */
+
 a {
     color: #3b82f6;
     text-decoration: none;
